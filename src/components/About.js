@@ -13,8 +13,8 @@ class About extends Component {
     <div className="col-md-6 col-12 ">
         <div className="card mt-5 border-0 p-5">
             <h2 className="mt-3 bold text-center">À propos </h2>
-            <h5>Je suis actuellement étudiant en BTS SIO à l'<a className="text-decoration-none" target="_blank" href="https://www.leschartreux.com/"><span style={{color: '#e83e8c'}}>Institution des Chartreux</span></a> spécialité Solutions Logicielles et Applications Métiers.
-          Au cours de cette formation j'ai pu préparer plusieurs projets, ces derniers sont accessible depuis l'onglet projets.
+            <h5>Je suis actuellement étudiant en Informatique <a className="text-decoration-none" ><span style={{color: '#e83e8c'}}>autodidacte</span></a>.
+          Au cours de ces années j'ai pu créer de nombreux projets, ces derniers sont accessible depuis l'onglet projets.
         </h5>
             <div className="mt-5">
                 <h2 className="bold text-center ">Mon cursus </h2>

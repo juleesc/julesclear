@@ -79,7 +79,7 @@ M27.8,84.4c3.1-8.6,16-44.6,49.6-60.7c22.7-10.9,51.3-4.3,108.3,8.8c78,17.9,99.6,2
         </div>
       </div>
 <div className="col-12 d-block mx-auto">
-<h4 className="text-center bold text-secondary mt-5">"Un bon site web est toujours en construction !"</h4>
+
 </div>
 
 
