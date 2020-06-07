@@ -2,7 +2,6 @@
   "name": "reactjules",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juleesc.github.io/",
   "dependencies": {
     "antd": "^3.18.2",
     "express": "^4.17.0",
