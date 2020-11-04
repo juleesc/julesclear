@@ -23,7 +23,7 @@ const { loading } = this.state;
           <div className="row pt-5 d-flex mb-5">
               <div className="col-md-6 col-12 mt-3 d-flex">
                   <a href="http://cr-devtux16.leschartreux.com/~j.clear/" target="_blank">
-                      <Card className="flex-fill" hoverable cover={<img alt="example" src="/assets/stockpro2.png" />} >
+                      <Card className="flex-fill" hoverable cover={<img alt="example" src="/assets/stockpro2.jpg" />} >
                       <Meta title="StockPro" onClick="" description="Réalisation d'un panier PHP. StockPro est une entreprise de e-commerce en concurrence directe avec LDLC. Conscient de son retard, le directeur nous à confier le développement de la partie Panier du site internet." />
                       </Card>
                   </a>
