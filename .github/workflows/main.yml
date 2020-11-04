@@ -21,4 +21,4 @@ jobs:
         BASE_BRANCH: master
         BRANCH: gh-pages
         FOLDER: build
-        BUILD_SCRIPT: npm install && npm run build -- --prod && cp build/index.html build/404.html && echo "julesclear.fr" >> build/CNAME
+        BUILD_SCRIPT:  cp build/index.html build/404.html && echo "julesclear.fr" >> build/CNAME
