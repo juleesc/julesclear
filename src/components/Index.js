@@ -2,7 +2,7 @@ import React from 'react';
 import { Component } from 'react';
 import styled, { keyframes } from 'styled-components';
 import { bounce } from 'react-animations';
-import { BrowserRouter as  Link } from "react-router-dom";
+import { BrowserRouter as Route, Link } from "react-router-dom";
 
 const Bounce = styled.div`animation: 2s ${keyframes`${bounce}`} 1`;
 
@@ -91,7 +91,7 @@ class Index extends Component {
             <h4>Développeur Web (à mes heures perdues),<br />
               Working from <span style={{color: '#e83e8c'}}>Home</span>.
             </h4>
-            <Link to="/about">  <button type="button" className="btn btn-primary mt-3">Découvrir !</button></Link>
+			<Link to="/about">  <button type="button" className="btn btn-primary mt-3">Découvrir !</button></Link>
           </div>
           <div className="col-md-6 col-12 text-center">
           <svg version="1.1" id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 380 380" style={{enableBackground: 'new 0 0 380 380'}} xmlSpace="preserve">
