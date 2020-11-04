@@ -30,7 +30,7 @@ class About extends Component {
     </div>
     <div className="col-md-6 col-12 pt-5">
         <div className="card mt-5 mx-auto d-block border-0">
-            <img className="w-50 mx-auto d-block shadow-lg" src="https://julesclear.fr/cv.png" />
+            <img className="w-50 mx-auto d-block shadow-lg" src="../assets/cv.png" />
             <div className="row">
                 <div className="col-12 d-block mx-auto">
                     <a href="https://julesclear.fr/cv.pdf" className="d-block mx-auto" target="_blank">

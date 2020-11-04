@@ -36,7 +36,7 @@ const { loading } = this.state;
              <Card
      hoverable
 loading={loading}
-     cover={<img alt="example" src="../assets/stockpro2.png" />}
+     cover={<img alt="example" src="../assets/construct.png" />}
    >
      <Meta  title="StockPro" description="StockPro est une entreprise de e-commerce en concurrence directe avec LDLC. Conscient de son retard, le directeur nous à confier le développement de la partie Panier du site internet." />
    </Card>
