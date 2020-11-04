@@ -35,7 +35,7 @@ class About extends Component {
 
             <div className="row jul">
                 <div className="col-12 d-block mx-auto mb-4 mb-md-0">
-                    <a href="/assets/cv.pdf" className="d-block mx-auto" target="_blank">
+                    <a href="https://julesclear.fr/assets/cv.pdf" className="d-block mx-auto" target="_blank">
                         <button type="button" className="d-block mx-auto btn btn-primary mt-2">Consulter mon CV</button>
                     </a>
                 </div>
