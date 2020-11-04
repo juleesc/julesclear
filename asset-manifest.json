@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.498d002a.chunk.css",
-    "main.js": "/static/js/main.387eaefe.chunk.js",
-    "main.js.map": "/static/js/main.387eaefe.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.b6e3a137.chunk.css": "/static/css/2.b6e3a137.chunk.css",
-    "static/js/2.167ae18f.chunk.js": "/static/js/2.167ae18f.chunk.js",
-    "static/js/2.167ae18f.chunk.js.map": "/static/js/2.167ae18f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cc968049f1a95e899c7f8e6105f41db4.js": "/precache-manifest.cc968049f1a95e899c7f8e6105f41db4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.b6e3a137.chunk.css.map": "/static/css/2.b6e3a137.chunk.css.map",
-    "static/css/main.498d002a.chunk.css.map": "/static/css/main.498d002a.chunk.css.map"
+    "main.css": "julesclear.fr/static/css/main.498d002a.chunk.css",
+    "main.js": "julesclear.fr/static/js/main.cd3b383f.chunk.js",
+    "main.js.map": "julesclear.fr/static/js/main.cd3b383f.chunk.js.map",
+    "runtime~main.js": "julesclear.fr/static/js/runtime~main.c1e81dbd.js",
+    "runtime~main.js.map": "julesclear.fr/static/js/runtime~main.c1e81dbd.js.map",
+    "static/css/2.b6e3a137.chunk.css": "julesclear.fr/static/css/2.b6e3a137.chunk.css",
+    "static/js/2.806aaa45.chunk.js": "julesclear.fr/static/js/2.806aaa45.chunk.js",
+    "static/js/2.806aaa45.chunk.js.map": "julesclear.fr/static/js/2.806aaa45.chunk.js.map",
+    "index.html": "julesclear.fr/index.html",
+    "precache-manifest.9357079ce77d5d325a5088d5ea73e2cd.js": "julesclear.fr/precache-manifest.9357079ce77d5d325a5088d5ea73e2cd.js",
+    "service-worker.js": "julesclear.fr/service-worker.js",
+    "static/css/2.b6e3a137.chunk.css.map": "julesclear.fr/static/css/2.b6e3a137.chunk.css.map",
+    "static/css/main.498d002a.chunk.css.map": "julesclear.fr/static/css/main.498d002a.chunk.css.map"
   }
 }
