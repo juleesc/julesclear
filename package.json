@@ -6,7 +6,7 @@
   "dependencies": {
     "antd": "^3.18.2",
     "express": "^4.17.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-animations": "^1.0.0",
     "react-dom": "^16.8.6",

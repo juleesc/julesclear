@@ -1,8 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import 'antd/dist/antd.css'
 import { Card } from 'antd';
-import { Row, Col } from 'antd';
 import { Component } from 'react';
 
 

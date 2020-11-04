@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { Component } from 'react';
 import Contact from './Contact.js'
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
@@ -40,7 +39,7 @@ class Navbar extends Component {
          <Link to='/contact/'><button type="button" className="btn btn-primary mr-md-5">Contact</button></Link>
        </div>
      </nav>
-     <Route path="" exact component={Index} />
+     
       <Route path="/" exact component={Index} />
      <Route path="/contact" component={Contact} />
      <Route path="/about" component={About} />
