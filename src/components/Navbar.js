@@ -6,7 +6,7 @@ import Index from './Index.js';
 import About from './About.js';
 import Project from './Project.js';
 
-
+const BASE_URL = '/'
 
 class Navbar extends Component {
 
@@ -15,14 +15,16 @@ class Navbar extends Component {
 
 
 
-<Router>
-<nav className="navbar navbar-expand-lg  navbar-light bg-light">
+<Router basename={BASE_URL} >
+<nav className="navbar navbar-expand-lg  navbar-light bg-light fixed-top">
+
        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
          <span className="navbar-toggler-icon" />
        </button>
+        <Link  to='/'> <p className="font-weight-bolder d-block d-md-none  my-auto"><span className="text-dark">Jules</span><span className="text-primary">Clear</span></p></Link>
        <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
          <ul className="navbar-nav  mt-2 mt-lg-0 ">
-           <li className="nav-item active">
+           <li className="nav-item active d-none d-md-block">
              <Link  to='/' className="nav-link ml-md-5" style={{fontWeight: 'bold'}} >Jules<span className="text-primary">Clear</span></Link>
            </li>
          </ul>
@@ -36,16 +38,19 @@ class Navbar extends Component {
              </li>
            </ul>
          </div>
-         <Link to='/contact/'><button type="button" className="btn btn-primary mr-md-5">Contact</button></Link>
+         <Link to='/contact'><button type="button" className="btn btn-primary mr-md-5">Contact</button></Link>
+
        </div>
+
      </nav>
-     
+
       <Route path="/" exact component={Index} />
      <Route path="/contact" component={Contact} />
      <Route path="/about" component={About} />
      <Route path="/project" component={Project} />
 
 </Router>
+
    );
  }
 };
