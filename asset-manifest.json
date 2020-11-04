@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "julesclear.fr/static/css/main.498d002a.chunk.css",
-    "main.js": "julesclear.fr/static/js/main.cd3b383f.chunk.js",
-    "main.js.map": "julesclear.fr/static/js/main.cd3b383f.chunk.js.map",
-    "runtime~main.js": "julesclear.fr/static/js/runtime~main.c1e81dbd.js",
-    "runtime~main.js.map": "julesclear.fr/static/js/runtime~main.c1e81dbd.js.map",
-    "static/css/2.b6e3a137.chunk.css": "julesclear.fr/static/css/2.b6e3a137.chunk.css",
-    "static/js/2.806aaa45.chunk.js": "julesclear.fr/static/js/2.806aaa45.chunk.js",
-    "static/js/2.806aaa45.chunk.js.map": "julesclear.fr/static/js/2.806aaa45.chunk.js.map",
-    "index.html": "julesclear.fr/index.html",
-    "precache-manifest.9357079ce77d5d325a5088d5ea73e2cd.js": "julesclear.fr/precache-manifest.9357079ce77d5d325a5088d5ea73e2cd.js",
-    "service-worker.js": "julesclear.fr/service-worker.js",
-    "static/css/2.b6e3a137.chunk.css.map": "julesclear.fr/static/css/2.b6e3a137.chunk.css.map",
-    "static/css/main.498d002a.chunk.css.map": "julesclear.fr/static/css/main.498d002a.chunk.css.map"
+    "main.css": "/julesclear/static/css/main.498d002a.chunk.css",
+    "main.js": "/julesclear/static/js/main.8b8b02c6.chunk.js",
+    "main.js.map": "/julesclear/static/js/main.8b8b02c6.chunk.js.map",
+    "runtime~main.js": "/julesclear/static/js/runtime~main.a239471a.js",
+    "runtime~main.js.map": "/julesclear/static/js/runtime~main.a239471a.js.map",
+    "static/css/2.b6e3a137.chunk.css": "/julesclear/static/css/2.b6e3a137.chunk.css",
+    "static/js/2.4545b8c0.chunk.js": "/julesclear/static/js/2.4545b8c0.chunk.js",
+    "static/js/2.4545b8c0.chunk.js.map": "/julesclear/static/js/2.4545b8c0.chunk.js.map",
+    "index.html": "/julesclear/index.html",
+    "precache-manifest.c4a9e58cf153794865b47a8670598f1f.js": "/julesclear/precache-manifest.c4a9e58cf153794865b47a8670598f1f.js",
+    "service-worker.js": "/julesclear/service-worker.js",
+    "static/css/2.b6e3a137.chunk.css.map": "/julesclear/static/css/2.b6e3a137.chunk.css.map",
+    "static/css/main.498d002a.chunk.css.map": "/julesclear/static/css/main.498d002a.chunk.css.map"
   }
 }
