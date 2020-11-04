@@ -4,7 +4,7 @@
   position: Lyon; 
   height: 180cm; 
   display: boy; 
-  background: Developer  🔨; 
+  background: Developer 🔨; 
   color: white 
 }
 ```
